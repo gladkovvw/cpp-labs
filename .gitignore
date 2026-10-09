@@ -1,0 +1,17 @@
+# Build
+build/
+cmake-build-debug/
+
+# Compiled
+*.o
+*.out
+a.out
+lab01
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
