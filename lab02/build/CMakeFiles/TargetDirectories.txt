@@ -1,3 +1,0 @@
-/home/danil/cpp-labs/lab02/build/CMakeFiles/lab02.dir
-/home/danil/cpp-labs/lab02/build/CMakeFiles/edit_cache.dir
-/home/danil/cpp-labs/lab02/build/CMakeFiles/rebuild_cache.dir
